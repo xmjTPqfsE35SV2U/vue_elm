@@ -1,4 +1,6 @@
 # vue_elm
+基于vue3.0做的后台管理系统练习
+vue-router axios echarts element-plus
 
 ## Project setup
 ```
